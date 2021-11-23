@@ -41,10 +41,8 @@ main {
 .badge {
   position: absolute;
   z-index: -1;
-  top: -50%;
-  left: -83%;
-  align-items: center;
-  justify-content: center;
+  top: -60%;
+  left: -100%;
 }
 .badge > img {
   height: 90vh;
@@ -103,7 +101,7 @@ li {
 }
 
 .languages p {
-  margin-top: 5.2rem;
+  margin-top: 15vh;
 }
 .languages li img {
   max-width: 48px;
